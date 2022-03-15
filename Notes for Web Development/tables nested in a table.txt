@@ -1,0 +1,27 @@
+<table border="1">
+    <tr>
+      <td>
+      <table>
+        <tr>
+          <td>SQL</td>
+          <td>⚝⚝⚝</td>
+        </tr>
+        <tr>
+          <td>Web Development</td>
+          <td>⚝⚝⚝⚝</td>
+        </tr>
+      </table>
+     </td>
+    <td>
+      <table>
+        <tr>
+          <td>Android Development</td>
+          <td>⚝⚝⚝</td>
+        </tr>
+        <tr>
+          <td>DevOps</td>
+          <td>⚝⚝⚝⚝</td>
+        </tr>
+      </table>
+    </td>
+  </table>
